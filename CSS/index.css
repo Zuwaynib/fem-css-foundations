@@ -1,11 +1,11 @@
 @import "./base.css";
 
 .home .menu path {
-    fill: var(--primary-color);
+    fill: var(--text-color);
 }
 
 .home .close path {
-    fill: var(--primary-color);
+    fill: var(--text-color);
 }
 
 .home .main_heading {
